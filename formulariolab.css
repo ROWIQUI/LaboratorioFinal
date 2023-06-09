@@ -1,0 +1,34 @@
+body {
+    background-color: #e2af09;
+    font-family: 'Courier New', Courier, monospace, Geneva, Tahoma, sans-serif;
+    color: #81379e;
+    font-size: 15px;
+    }
+    .group {
+    margin: auto;
+    width: 250px;
+    border: 2px solid #81379e;
+    text-align: left;
+    padding-left: 45px; 
+    padding-right: 45px;
+    padding-bottom: 25px;
+    padding-top: 20px;
+    border-radius: 20px;
+    background-color: #d5dede;
+    }
+.container>label {
+    margin: auto;
+}
+label,input{
+    width: 100%;
+    margin: 5px 0 5px 0;
+}
+.form-btn {
+    margin-top: 20px;
+    width: 50%;
+    padding: 5px;
+    background-color: #0bbec2;
+    font-weight: bold;
+    color: white;
+}
+
